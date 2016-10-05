@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page name="LoginPage">
+	<control>
+		<name>userNameTextbox</name>
+		<type>id</type>
+		<value>mod-login-username</value>
+	</control>
+	<control>
+		<name>passwordTextbox</name>
+		<type>id</type>
+		<value>mod-login-password</value>
+	</control>
+	<control>
+		<name>loginButton</name>
+		<type>xpath</type>
+		<value>//button[contains(.,'Log in')]</value>
+	</control>
+</page>

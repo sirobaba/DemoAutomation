@@ -1,0 +1,3 @@
+2016-10-04 17:05:43,409 INFO  [testcase.LoginFunction] - Login to Home Page
+2016-10-04 17:05:50,214 INFO  [testcase.LoginFunction] - VP01: Passed: Verify that Login to Home page successfully with valid account
+2016-10-04 17:05:50,215 INFO  [testcase.LoginFunction] - Log out

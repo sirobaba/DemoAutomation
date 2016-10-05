@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testcase.LoginFunction" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-10-05T11:04:01" hostname="LGDN13442-W7D01" time="10.34">
+  <properties/>
+  <testcase name="LoginToHomePage" classname="testcase.LoginFunction" time="10.34"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
