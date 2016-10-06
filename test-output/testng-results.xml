@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[2016-10-04 17:05:43,409 INFO  LoginFunction - Login to Home Page
+      <![CDATA[2016-10-06 09:31:50,405 INFO  LoginFunction - Login to Home Page
 ]]>
     </line>
     <line>
-      <![CDATA[2016-10-04 17:05:50,214 INFO  LoginFunction - VP01: Passed: Verify that Login to Home page successfully with valid account
+      <![CDATA[2016-10-06 09:31:59,349 INFO  LoginFunction - VP01: Passed: Verify that Login to Home page successfully with valid account
 ]]>
     </line>
     <line>
-      <![CDATA[2016-10-04 17:05:50,215 INFO  LoginFunction - Log out
+      <![CDATA[2016-10-06 09:31:59,349 INFO  LoginFunction - Log out
 ]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="20315" started-at="2016-10-04T10:05:34Z" finished-at="2016-10-04T10:05:54Z">
+  <suite name="Suite" duration-ms="59764" started-at="2016-10-06T02:31:15Z" finished-at="2016-10-06T02:32:15Z">
     <groups>
     </groups>
-    <test name="Run on Firefox" duration-ms="20315" started-at="2016-10-04T10:05:34Z" finished-at="2016-10-04T10:05:54Z">
+    <test name="Run on Firefox" duration-ms="59764" started-at="2016-10-06T02:31:15Z" finished-at="2016-10-06T02:32:15Z">
       <class name="testcase.LoginFunction">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testcase.LoginFunction@5891e32e]" name="setup" is-config="true" duration-ms="9343" started-at="2016-10-04T17:05:34Z" finished-at="2016-10-04T17:05:43Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testcase.LoginFunction@8e24743]" name="setup" is-config="true" duration-ms="34742" started-at="2016-10-06T09:31:15Z" finished-at="2016-10-06T09:31:50Z">
           <params>
             <param index="0">
               <value>
@@ -30,23 +30,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="LoginToHomePage()[pri:1, instance:testcase.LoginFunction@5891e32e]" name="LoginToHomePage" duration-ms="10409" started-at="2016-10-04T17:05:43Z" description="Verify that login to home page successfully" finished-at="2016-10-04T17:05:53Z">
+        <test-method status="PASS" signature="LoginToHomePage()[pri:1, instance:testcase.LoginFunction@8e24743]" name="LoginToHomePage" duration-ms="14630" started-at="2016-10-06T09:31:50Z" description="Verify that login to home page successfully" finished-at="2016-10-06T09:32:05Z">
           <reporter-output>
             <line>
-              <![CDATA[2016-10-04 17:05:43,409 INFO  LoginFunction - Login to Home Page
+              <![CDATA[2016-10-06 09:31:50,405 INFO  LoginFunction - Login to Home Page
 ]]>
             </line>
             <line>
-              <![CDATA[2016-10-04 17:05:50,214 INFO  LoginFunction - VP01: Passed: Verify that Login to Home page successfully with valid account
+              <![CDATA[2016-10-06 09:31:59,349 INFO  LoginFunction - VP01: Passed: Verify that Login to Home page successfully with valid account
 ]]>
             </line>
             <line>
-              <![CDATA[2016-10-04 17:05:50,215 INFO  LoginFunction - Log out
+              <![CDATA[2016-10-06 09:31:59,349 INFO  LoginFunction - Log out
 ]]>
             </line>
           </reporter-output>
         </test-method> <!-- LoginToHomePage -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.LoginFunction@5891e32e]" name="tearDown" is-config="true" duration-ms="540" started-at="2016-10-04T17:05:53Z" finished-at="2016-10-04T17:05:54Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.LoginFunction@8e24743]" name="tearDown" is-config="true" duration-ms="10378" started-at="2016-10-06T09:32:05Z" finished-at="2016-10-06T09:32:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
